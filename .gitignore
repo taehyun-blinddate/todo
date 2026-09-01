@@ -1,0 +1,12 @@
+### 에이전트 작업 캐시 ###
+# oh-my-claudecode 가 만드는 세션별 런타임 상태. 지워도 다시 생성된다.
+.omc/
+
+### macOS ###
+.DS_Store
+._.DS_Store
+
+### IDE ###
+.idea/
+.vscode/
+*.iml
